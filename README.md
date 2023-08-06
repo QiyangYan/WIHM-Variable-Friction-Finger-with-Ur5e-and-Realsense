@@ -5,7 +5,9 @@ Supervisor: Dr Ad Spiers
 
 ## Demonstration Video
 
-Uploading Pick&Slide&Place.mp4…
+https://github.com/QiyangYan/WIHM-Variable-Friction-Finger-with-Ur5e-and-Realsense/assets/75078611/1c605a97-48fa-4415-80d2-33cb92d47351
+
+
 
 
 
