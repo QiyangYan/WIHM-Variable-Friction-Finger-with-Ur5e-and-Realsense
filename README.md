@@ -3,9 +3,12 @@
 By Athanasios Kantas, Qiyang Yan, Sean Xiao, Nick Zheng, Alexandria Perkin  
 Supervisor: Dr Ad Spiers
 
-## Demonstration Video
+## Demonstration Video of Pick-Manipulate-Place Task
 
-https://github.com/QiyangYan/WIHM-Variable-Friction-Finger-with-Ur5e-and-Realsense/assets/75078611/1c605a97-48fa-4415-80d2-33cb92d47351
+
+https://github.com/QiyangYan/WIHM-Variable-Friction-Finger-with-Ur5e-and-Realsense/assets/75078611/74e68ef6-b85c-408d-8356-9325e0b71f36
+
+
 
 
 
