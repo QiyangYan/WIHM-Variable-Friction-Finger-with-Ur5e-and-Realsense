@@ -1,7 +1,8 @@
-# In Hand Manipulation (IHM) Project at Imperial College London
+# In Hand Manipulation (IHM) with Variable Friction Finger, Ur5e and Realsense
 
 By Athanasios Kantas, Qiyang Yan, Sean Xiao, Nick Zheng, Alexandria Perkin  
 Supervisor: Dr Ad Spiers
+Institution: Imperial College London
 
 ## Demonstration Video of Pick-Manipulate-Place Task
 
